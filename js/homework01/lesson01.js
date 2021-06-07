@@ -156,12 +156,14 @@ console.log(person);*/
   Вивести "Вітаю *Імя* *По батькові*. Тобі *вік* років".*/
 
 /*
+
 const name = prompt('Name')
 const age = prompt('Age')
 const fathername = prompt('fathername')
 
 console.log(`Вітаю ${name}, ${fathername} . Тобі ${age}`)
 */
+
 
 /*5. За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
   let a = 100; let b = '100'; let c = true;*/
